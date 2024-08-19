@@ -67,7 +67,7 @@
 <데모 영상 넣을 자리>
 
 ## HOW TO USE
-FE: <리드미 링크 넣을 자리>
+FE: [ReadME](https://github.com/KEA-ENTER/ENTER-FE/blob/develop/README.md)
 
 BE: <리드미 링크 넣을 자리>
 
