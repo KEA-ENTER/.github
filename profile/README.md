@@ -69,7 +69,7 @@
 ## HOW TO USE
 FE: [ReadME](https://github.com/KEA-ENTER/ENTER-FE/blob/develop/README.md)
 
-BE: <리드미 링크 넣을 자리>
+BE: [ReadME](https://github.com/KEA-ENTER/ENTER-BE/blob/develop/README.md)
 
 ## Technology
 **FE**
